@@ -1,8 +1,14 @@
 body {
-    background-color: #fec;
+    background-color: #d25;
+    /* background-color: rgb(233, 220, 186) */
 
 }
 
 .container {
     margin: 0 auto;
+    text-align: center;
+}
+
+canvas {
+    display: inline-block
 }
